@@ -1,0 +1,12 @@
+[package]
+name = "pdfio-rs"
+version = "0.1.0"
+edition = "2021"
+
+
+
+
+
+[build-dependencies]
+bindgen = "0.71.0"
+cc = "1.2.5"
